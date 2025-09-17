@@ -1,5 +1,3 @@
-# chatbot.py
-
 print("Hello! I am your simple chatbot. Type 'bye' to exit.")
 
 while True:
