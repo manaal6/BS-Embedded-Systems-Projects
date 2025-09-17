@@ -18,12 +18,23 @@ A simple command-line calculator built with Python.
 **How to Run:**
 ```bash
 python Calculator.py
+Example:
 
-
-### 𝟐. 𝐂𝐡𝐚𝐭𝐛𝐨𝐭
+mathematica
+Copy code
+Select operation:
+1. Add
+2. Subtract
+3. Multiply
+4. Divide
+Enter choice (1/2/3/4): 1
+Enter first number: 10
+Enter second number: 5
+Result: 15.0
+2. Chatbot
 A very basic chatbot program that takes user input and responds with simple predefined answers.
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬:
+Features:
 
 Greets the user
 
@@ -31,16 +42,25 @@ Responds to simple questions like "hello", "how are you", "bye"
 
 Shows how if-else logic works in Python
 
-𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧:
+How to Run:
 
 bash
 Copy code
 python Chatbot.py
+Example:
 
-🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝
+vbnet
+Copy code
+You: hello
+Bot: Hello! How can I help you?
+You: how are you?
+Bot: I'm doing great, thanks for asking!
+You: bye
+Bot: Goodbye! Have a nice day.
+🛠️ Tools Used
 Python 3.x
 
-🎯 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐎𝐮𝐭𝐜𝐨𝐦𝐞𝐬
+🎯 Learning Outcomes
 Gained hands-on experience in writing Python programs
 
 Practiced input/output handling
