@@ -9,9 +9,6 @@ To verify **Ohm’s Law** (V = IR) using Multisim.
 - Ammeter in series
 - Voltmeter across resistor
 
-## 🖼️ Circuit Diagram
-![Ohm’s Law Circuit](screenshot.png)
-
 ## 🔎 Results
 - Voltage across R = 10 V
 - Current through R = 10 mA
