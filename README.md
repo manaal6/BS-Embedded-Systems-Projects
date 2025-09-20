@@ -3,10 +3,10 @@
 This folder contains Multisim simulations for basic circuit analysis.
 
 ## 📂 Projects
-1. [Ohm’s Law](./Ohms-Law)  
+1. Ohm's Law  
    Verification of V = IR using Multisim.
 
-2. [Voltage Divider](./Voltage-Divider)  
+2. Voltage-Divider 
    Demonstration of how two resistors divide voltage.
 
 ---
